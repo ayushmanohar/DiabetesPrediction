@@ -14,5 +14,7 @@ Feautures
 8) Age
 
 Model used
-1) Support Vector Machine
-2) K Nearest Neighbors
+ Support Vector Machine
+Model Deployed using streamlit 
+Model hosted on Heroku
+
