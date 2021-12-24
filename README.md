@@ -17,4 +17,8 @@ Model used
  Support Vector Machine
 Model Deployed using streamlit 
 Model hosted on Heroku
+ 
+ 
+![3](https://user-images.githubusercontent.com/65915038/147324492-3f7cbd74-bf97-4f08-9699-483b982933c9.png)
 
+![2](https://user-images.githubusercontent.com/65915038/147324365-638a13cc-11dd-4295-ba3e-3c2a80ab6fd4.png)
