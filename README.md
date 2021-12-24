@@ -1,4 +1,7 @@
 # DiabetesPrediction
+Link to the Web page:  https://ayushdiabetespredictionweb.herokuapp.com/
+
+
 Predicting whther the patient has Diabaties or Not using  Diabaties.csv
 Feautures 
 1) Pregnancies
